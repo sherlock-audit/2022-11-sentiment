@@ -1,6 +1,6 @@
 # Sentiment contest details
 
-- 50,000 USDC main award pot
+- 10,000 USDC main award pot
 - Join [Sherlock Discord](https://discord.gg/MABEWyASkp)
 - Submit findings using the issue page in your private contest repo (label issues as med or high)
 - [Read for more details](https://docs.sherlock.xyz/audits/watsons)
@@ -9,8 +9,7 @@
 
 # Resources
 
-- [resource1](url)
-- [resource2](url)
+- [Docs](https://docs.sentiment.xyz/)
 
 # On-chain context
 
