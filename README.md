@@ -27,9 +27,9 @@ PRs since last Sentiment contest:
 
 Files in scope:
 
-[controller @ fd26c60](https://github.com/sentimentxyz/controller/commit/fd26c601b547bdc497f4135e135e10f5ee30b384)
-[oracle @ 101e699](https://github.com/sentimentxyz/oracle/commit/101e699c9d59add122973d0eb6e5daafc1846301)
-[protocol @ 57ed340](https://github.com/sentimentxyz/protocol/commit/57ed340c1b112e26e62a8414144714750f85f083)
+- [controller @ fd26c60](https://github.com/sentimentxyz/controller/commit/fd26c601b547bdc497f4135e135e10f5ee30b384)
+- [oracle @ 101e699](https://github.com/sentimentxyz/oracle/commit/101e699c9d59add122973d0eb6e5daafc1846301)
+- [protocol @ 57ed340](https://github.com/sentimentxyz/protocol/commit/57ed340c1b112e26e62a8414144714750f85f083)
 
 All contracts in the folders (that represent the repos above) except contracts in any test folder.
 
