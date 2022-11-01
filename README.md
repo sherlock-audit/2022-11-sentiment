@@ -15,7 +15,7 @@
 
 # Audit scope
 
-Changes made after the [Sentiment](https://app.sherlock.xyz/audits/contests/1) contest
+Changes made after the [Sentiment](https://app.sherlock.xyz/audits/contests/1) contest:
 
 Github changes: +699 added, -3 deleted
 PRs since last Sentiment contest:
