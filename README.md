@@ -9,20 +9,21 @@
 
 # Resources
 
+- [Website](https://www.sentiment.xyz/)
 - [Docs](https://docs.sentiment.xyz/)
-
-# On-chain context
-
-TO FILL IN BY PROTOCOL
-
-```
-ERC20: [e.g. any, none, USDC, USDC and USDT]
-ERC721: [e.g. any, none, UNI-V3]
-```
+- [Twitter](https://twitter.com/sentimentxyz)
 
 # Audit scope
 
-TBD
+Changes made after the [Sentiment](https://app.sherlock.xyz/audits/contests/1) contest
+
+Github changes: +699 added, -3 deleted
+PRs:
+
+1. https://github.com/sentimentxyz/protocol/pull/239
+2. https://github.com/sentimentxyz/controller/pull/47
+3. https://github.com/sentimentxyz/controller/pull/46
+4. https://github.com/sentimentxyz/oracle/pull/45
 
 # About Sentiment
 
